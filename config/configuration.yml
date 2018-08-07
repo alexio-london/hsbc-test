@@ -1,0 +1,5 @@
+openWeatherMapKey: 7423441aa8ca658386e9f86b96cda216
+openWeatherMapEndPoint: http://api.openweathermap.org/data/2.5/forecast
+
+cacheSize: 100
+cacheExpiry: 60
